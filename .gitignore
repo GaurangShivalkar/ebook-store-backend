@@ -1,0 +1,17 @@
+# Dependencies
+/node_modules
+
+# Secrets (VERY IMPORTANT!)
+.env
+
+# Build Output
+/dist
+
+# Logs
+npm-debug.log*
+*.log
+
+# OS & IDE junk
+.DS_Store
+.vscode/
+.idea/
